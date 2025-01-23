@@ -192,7 +192,7 @@ Bu analizde, belirli bir oyuncunun pas bağlantılarını inceledim. Görsel, oy
 ### En Aktif Oyuncular (Simüle Edilmiş Pas Verisi)
 Simüle edilmiş pas verilerini kullanarak en aktif oyuncuları belirledim. Görsel, en çok pas yapan ve pas alan oyuncuları göstermektedir.
 
-![Player Activity by Simulated Passes Analysis](reports/visuals/player_activity_by_simulated_passes_analysis.png)
+![Player Activity by Simulated Passes Analysis](reports/visuals/player_activity_by_simulated_passes.png)
 
 ---
 
