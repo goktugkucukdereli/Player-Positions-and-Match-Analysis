@@ -1,12 +1,9 @@
 # Oyuncu Pozisyonları ve Maç Analizi
 
----
-
 ## 🎯 Proje Amacı
 
-Bu proje, futbol maçlarının oyuncu hareketlerini, pas bağlantılarını, top hareketlerini ve stratejilerini analiz ederek bu verileri görselleştirme ve video analizleriyle sunmak için geliştirilmiştir. Oyuncu pozisyonları, pas bağlantıları ve hedefe yakınlık analizleri gibi metrikler üreten proje, futbol analitiği ve scouting süreçlerini desteklemekte, oyuncu performansını değerlendirme ve stratejik kararlar için yenilikçi çözümler sunmaktadır.
-
----
+Bu proje, futbol maçlarının oyuncu hareketlerini, pas bağlantılarını, top hareketlerini ve stratejilerini analiz ederek bu verileri görselleştirme ve video analizleriyle sunmak için geliştirilmiştir.
+Oyuncu pozisyonları, pas bağlantıları ve hedefe yakınlık analizleri gibi metrikler üreten proje, futbol analitiği ve scouting süreçlerini desteklemekte, oyuncu performansını değerlendirme ve stratejik kararlar için yenilikçi çözümler sunmaktadır.
 
 ## 📌 Proje Hedefleri
 
