@@ -2,8 +2,7 @@
 
 ## 🎯 Proje Amacı
 
-Bu proje, futbol maçlarının oyuncu hareketlerini, pas bağlantılarını, top hareketlerini ve stratejilerini analiz ederek bu verileri görselleştirme ve video analizleriyle sunmak için geliştirilmiştir.
-Oyuncu pozisyonları, pas bağlantıları ve hedefe yakınlık analizleri gibi metrikler üreten proje, futbol analitiği ve scouting süreçlerini desteklemekte, oyuncu performansını değerlendirme ve stratejik kararlar için yenilikçi çözümler sunmaktadır.
+Bu projeyi, futbol maçlarının oyuncu hareketlerini, pas bağlantılarını, top hareketlerini ve oyun stratejilerini analiz ederek görselleştirme ve video analizleriyle sunmak için geliştirdim. Oyuncu pozisyonları, pas bağlantıları ve hedefe yakınlık analizleri gibi metrikler üreterek, futbol analitiği ve scouting süreçlerini desteklemeyi, oyuncu performansını değerlendirmeyi ve stratejik kararlar için yenilikçi çözümler sunmayı hedefledim.
 
 ## 📌 Proje Hedefleri
 
@@ -33,54 +32,50 @@ Oyuncu pozisyonları, pas bağlantıları ve hedefe yakınlık analizleri gibi m
 ## 📈 Proje Sonuçları
 
 1. **Dinamik Pozisyon Analizi**
-   - Videodan oyuncuların pozisyonları tespit edilerek bir CSV dosyasına kaydedildi.
-   - Oyuncuların hareket yoğunlukları bir futbol sahası üzerinde görselleştirildi.
+   - Videodan oyuncuların pozisyonlarını tespit ederek bir CSV dosyasına kaydettim. Bu verilerle, oyuncuların saha üzerindeki hareket yoğunluklarını futbol sahası üzerinde ısı              haritası şeklinde görselleştirdim.
 
 2. **Pas ve Top Hareket Analizi**
-   - Oyuncuların pas bağlantıları simüle edilerek en çok pas yapan oyuncular belirlendi.
-   - Topun sahadaki hareket yoğunluğu ve belirli bölgelerdeki hareketleri analiz edildi.
+   - Pas ve top hareketlerini analiz ederek oyuncular arasındaki pas bağlantılarını simüle ettim ve en çok pas yapan oyuncuları belirledim. Ayrıca, topun sahadaki hareket yoğunluğunu       ve belirli bölgelerdeki dinamiklerini inceledim.
 
 3. **Takım Bazlı Analizler**
-   - Oyuncular takımlara ayrıldı ve her takımın saha içindeki hareket yoğunlukları ve pas örüntüleri incelendi.
+   - Takım analizlerinde oyuncuları takımlara ayırarak her takımın saha içindeki hareket yoğunluklarını ve pas örüntülerini görselleştirdim.
 
 4. **Zaman Bazlı Hareket Analizi**
-   - Oyuncuların ve topun belirli zaman dilimlerindeki pozisyonları analiz edildi.
-   - Hareketlerin oyun içindeki zamanlaması ile etkileri incelendi.
+   - Oyuncuların ve topun belirli zaman dilimlerindeki pozisyonlarını analiz ederek hareketlerin oyun içindeki zamanlaması ve etkilerini inceledim.
 
 5. **Hedefe Yakınlık Analizi**
-   - Oyuncuların ve topun kaleye olan uzaklığı zaman içinde takip edilerek görselleştirildi.
+   - Hedefe yakınlık analizinde oyuncuların ve topun kaleye olan uzaklıklarını zaman içinde takip ederek etkili pozisyonları tespit ettim.
 
 6. **Gelişmiş Veri Modelleme**
-   - Veri madenciliği ve kümeleme teknikleri kullanılarak oyuncuların rolü ve stratejik davranışları belirlendi.
+   - Gelişmiş veri modelleme tekniklerini kullanarak oyuncuların rollerini ve stratejik davranışlarını belirlemek için veri madenciliği ve kümeleme yöntemlerini uyguladım.
 
 7. **Video Analizi ile Entegrasyon**
-   - Analiz edilen veriler bir futbol videosu üzerine yerleştirildi.
-   - Oyuncu pozisyonları ve önemli anlar görsel olarak video üzerinde vurgulandı.
+   - Analiz edilen tüm verileri bir futbol videosu üzerine entegre ettim. Bu sayede, oyuncu pozisyonları ve önemli anlar görsel olarak video üzerinde vurgulandı.
 
 ---
 
 ## 📋 Projenin İçeriği
 
 ### 1. Oyuncu Pozisyonları Isı Haritası
-- Oyuncuların saha üzerindeki hareketlerini ısı haritası şeklinde görselleştirir.
+- Oyuncuların saha üzerindeki hareketlerini ısı haritası şeklinde görselleştirdim.
 
 ### 2. Pas ve Top Hareket Analizi
-- Oyuncular arasındaki pas bağlantılarını ve topun saha üzerindeki hareketini analiz eder.
+- Oyuncular arasındaki pas bağlantılarını ve topun saha üzerindeki hareketini analiz ettim.
 
 ### 3. Takım Bazlı Analizler
-- İki takımın saha içindeki etkinliklerini kıyaslar.
+- İki takımın saha içindeki etkinliklerini kıyasladım.
 
 ### 4. Zaman Bazlı Hareket Analizi
-- Oyuncuların ve topun zaman içindeki hareketlerini inceleyerek oyun dinamiklerini anlamaya yardımcı olur.
+- Oyuncuların ve topun zaman içindeki hareketlerini inceleyerek oyun dinamiklerini anlamaya çalıştım.
 
 ### 5. Hedefe Yakınlık Analizi
-- Oyuncuların ve topun kaleye olan yakınlıklarını analiz ederek etkili pozisyonları tespit eder.
+- Oyuncuların ve topun kaleye olan yakınlıklarını analiz ederek etkili pozisyonları tespit ettim.
 
 ### 6. Gelişmiş Veri Modelleme
-- Veri madenciliği ve makine öğrenmesi yöntemleriyle oyuncu rolleri ve oyun kalıplarını belirler.
+- Veri madenciliği ve makine öğrenmesi yöntemleriyle oyuncu rolleri ve oyun kalıplarını belirledim.
 
 ### 7. Video Analizi ile Entegrasyon
-- Analiz verilerini maç videolarıyla entegre ederek görsel bir sunum sağlar.
+- Analiz verilerini maç videolarıyla entegre ederek görsel bir sunum sağladım.
 
 ---
 
@@ -137,14 +132,14 @@ Oyuncu pozisyonları, pas bağlantıları ve hedefe yakınlık analizleri gibi m
 ## 📊 Görselleştirmeler ve Analizler
 
 ### Oyuncu Pozisyonları Isı Haritası
-Oyuncuların saha üzerindeki hareketlerinin yoğunluk dağılımını gösterir.
+Bu analizde, oyuncuların saha üzerindeki hareket yoğunluklarını analiz ettim. Görsel, oyuncuların maç boyunca hangi bölgelerde daha sık bulunduklarını göstermektedir.
 
 ![Player Positions Heatmap](reports/visuals/player_positions_heatmap.png)
 
 ---
 
 ### Pas ve Top Hareket Analizi
-Oyuncular arasındaki pas bağlantılarını ve topun saha üzerindeki hareketlerini analiz eder.
+Bu analizde, oyuncular arasındaki pas bağlantılarını ve topun saha üzerindeki hareketini inceledim. Görsel, oyuncular arasındaki en sık pas bağlantılarını ve topun hangi bölgelerde daha aktif olduğunu göstermektedir.
 
 ![Pass and Ball Movement Analysis](reports/visuals/pass&ball_analysis.png)
 
@@ -153,91 +148,91 @@ Oyuncular arasındaki pas bağlantılarını ve topun saha üzerindeki hareketle
 ### Takım Bazlı Analizler
 
 **Takım A Isı Haritası:**
-Takım A oyuncularının saha üzerindeki hareket yoğunluğunu gösterir.
+Takım A'nın saha üzerindeki hareket yoğunluğunu analiz ettim. Görsel, takımın hangi bölgelerde daha fazla hareketlilik gösterdiğini vurgulamaktadır.
 
 ![Team A Heatmap](reports/visuals/team_a_heatmap.png)
 
 ---
 
 **Takım Aktivite Karşılaştırması:**
-İki takımın saha içindeki etkinliklerini kıyaslar.
+İki takımın saha içindeki hareketlilik oranlarını kıyasladım. Görsel, takım bazlı hareketlilik farklarını ortaya koymaktadır.
 
 ![Team Activity Comparison](reports/visuals/team_activity_comparison.png)
 
 ---
 
 ### Zaman Bazlı Hareket Analizi
-Zaman içinde oyuncu ve top hareketlerini analiz ederek oyun dinamiklerini görselleştirir.
+Bu analizde, oyuncuların ve topun zaman içinde nasıl hareket ettiğini inceledim. GIF, belirli zaman aralıklarında oyuncuların ve topun saha üzerindeki pozisyonlarını göstermektedir.
 
 ![Time-Based Movement Analysis](reports/visuals/time_based_movement_analysis.gif)
 
 ---
 
 ### Hedefe Yakınlık Analizi
-Oyuncuların ve topun kaleye olan mesafelerini analiz eder.
+Bu analizde, oyuncuların ve topun kaleye olan mesafelerini analiz ettim. Görsel, hangi oyuncuların ve topun kaleye en yakın olduğunu zaman bazında göstermektedir.
 
 ![Proximity to Goal Analysis](reports/visuals/proximity_to_goal_analysis.png)
 
 ---
 
 ### Gelişmiş Veri Modelleme
-Makine öğrenmesi yöntemleriyle oyuncu rolleri ve stratejik oyun kalıplarını belirler.
+Makine öğrenmesi yöntemleri kullanarak oyuncuların saha içindeki rollerini analiz ettim. Görsel, oyuncuların hangi taktiksel rolleri üstlendiğini ve saha içindeki davranışlarını göstermektedir.
 
 ![Player Roles Analysis](reports/visuals/player_roles_analysis.png)
 
 ---
 
 ### Oyuncu Pas Analizi
-Belirli bir oyuncunun pas bağlantılarını ve hangi oyuncularla daha sık paslaştığını analiz eder.
+Bu analizde, belirli bir oyuncunun pas bağlantılarını inceledim. Görsel, oyuncunun en sık paslaştığı takım arkadaşlarını ve bu bağlantıların sıklığını göstermektedir.
 
 ![Player Pass Analysis](reports/visuals/player_pass_analysis.png)
 
 ---
 
 ### En Aktif Oyuncular (Simüle Edilmiş Pas Verisi)
-Simüle edilmiş pas verisine dayanarak en aktif oyuncuları belirler.
+Simüle edilmiş pas verilerini kullanarak en aktif oyuncuları belirledim. Görsel, en çok pas yapan ve pas alan oyuncuları göstermektedir.
 
 ![Player Activity by Simulated Passes Analysis](reports/visuals/player_activity_by_simulated_passes_analysis.png)
 
 ---
 
 ### En Aktif Oyuncular (Pozisyon Bazında)
-Oyuncuların pozisyon verilerine dayanarak saha üzerinde en aktif olanları analiz eder.
+Pozisyon verilerine dayanarak en aktif oyuncuları analiz ettim. Görsel, oyuncuların saha üzerindeki hareketlilik seviyelerini göstermektedir.
 
 ![Player Activity by Position Analysis](reports/visuals/player_activity_by_position.png)
 
 ---
 
 ### Oyuncu 10 İçin Saha Üzerindeki Hareket Yoğunluğu
-Oyuncu 10'un saha üzerindeki hareket yoğunluğunu görselleştirir.
+Oyuncu 10'un saha üzerindeki hareket yoğunluğunu analiz ettim. Görsel, oyuncunun hangi bölgelerde daha fazla bulunduğunu göstermektedir.
 
 ![Player 10 Heatmap Analysis](reports/visuals/player_10_heatmap.png)
 
 ---
 
 ### Oyuncular Arasındaki Pas Bağlantı Ağı
-Oyuncular arasındaki pas bağlantılarını ağırlıklarla birlikte görselleştirir.
+Oyuncular arasındaki pas bağlantılarını analiz ettim. Görsel, oyuncular arasındaki pas bağlantılarının sıklığını ve yoğunluğunu göstermektedir.
 
 ![Pass Network Analysis](reports/visuals/pass_network_analysis.png)
 
 ---
 
 ### Topa En Yakın Oyuncular
-Topa en yakın oyuncuları ve bu yakınlıkların zaman içindeki değişimini analiz eder.
+Bu analizde, topa en yakın oyuncuları inceledim. Görsel, maç boyunca hangi oyuncuların topa en yakın olduğunu göstermektedir.
 
 ![Closest Players to Ball Analysis](reports/visuals/closest_players_to_ball.png)
 
 ---
 
 ### Topun Saha Üzerindeki Yoğunluk Analizi
-Topun saha üzerindeki yoğunluk dağılımını analiz eder.
+Topun saha üzerindeki hareketlerini analiz ettim. Görsel, topun en yoğun bulunduğu bölgeleri vurgulamaktadır.
 
 ![Ball Position Heatmap Analysis](reports/visuals/ball_position_heatmap.png)
 
 ---
 
 ### Video Analizi ile Entegrasyon
-Analiz sonuçlarını maç videolarıyla senkronize ederek görsel bir sunum sağlar.
+Bu analizde, maç videosu üzerinde oyuncu pozisyonlarını ve önemli anları görselleştirdim. Görsel, analiz verilerini videoyla senkronize bir şekilde sunmaktadır.
 
 ![Video Analysis Integration](reports/visuals/video_analysis.gif)
 
