@@ -1,0 +1,28 @@
+Futbol Analizi: Özet Rapor
+
+1. **Toplam oyuncu sayısı**: 22
+   - Pozisyon verilerine göre toplamda 22 oyuncu analiz edilmiştir.
+
+2. **Pas başarı oranı**: %84
+   - Yapılan pas analizlerine göre tamamlanan pasların yüzdesi.
+
+3. **En aktif oyuncu**: Player 10
+   - Oyuncu pozisyonları ve pas verilerine göre en fazla etkileşimi olan oyuncu.
+
+4. **Hedefe en yakın oyuncu**: Player 9
+   - Hedefe yakınlık analizine göre en sık kaleye yaklaşan oyuncu.
+
+5. **Takım A'nın en yoğun pas alanı**: Orta saha
+   - Takım A oyuncularının pas bağlantılarına göre orta saha bölgesi en aktif alan olarak belirlenmiştir.
+
+6. **Takım B'nin en yoğun pas alanı**: Defans
+   - Takım B oyuncularının pas bağlantılarına göre defans bölgesi en aktif alan olarak belirlenmiştir.
+
+7. **Zaman bazlı hareket analizi**:
+   - Oyuncuların pozisyonlarına göre ikinci yarının başında saldırı bölgesine hareketlilik artmıştır.
+
+8. **Video analizi entegrasyonu**:
+   - Video analizi, oyuncu hareketlerinin ve pas bağlantılarının görselleştirilmesi ile başarıyla entegre edilmiştir.
+
+9. **Gelişmiş modelleme sonuçları**:
+   - Veri modelleme ile oyuncuların stratejik rollerine yönelik tahminler yapılmıştır.
